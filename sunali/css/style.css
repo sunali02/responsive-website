@@ -1,0 +1,93 @@
+body{
+padding-top: 20px;
+background-color: #CCFFFF;
+}
+
+.image1 {
+
+    height:370px;
+    width:370px;
+    padding:0 0 20px 0;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+.image2{
+    height:350px;
+    width:310px;
+    margin-left: 120px;
+}
+
+.style1{
+    height: 10px;
+	   border: 0;
+	    box-shadow: 0 10px 10px -10px black inset;
+}
+
+.image3{
+    height:350px;
+    width:420px;
+    padding-left: 150px;
+}
+
+.image4{
+    height:350px;
+    width:350px;
+    display:block;
+    margin: 0 auto;
+}
+
+.modifyButton{
+    border-radius: 30px;
+    margin-left: 50px;
+    display:block;
+    margin: 0 auto;
+}
+
+.image5{
+    height:130px;
+    width:130px;
+    border-radius: 100px;
+    margin:0 auto;
+    display:block;
+}
+
+.image6{
+    height:130px;
+    width:130px;
+    border-radius: 100px;
+    margin:0 auto;
+    display:block;
+}
+
+.number{
+    font-size:30px;
+}
+
+.style2{
+    height:2px;
+    margin-left: 20px;
+}
+
+.icon{
+    text-align: center;
+}
+
+.people{
+    font-size:250%;
+    text-align: center;
+}
+
+.pro{
+    font-size: 115px;
+    text-align: left;
+    padding-bottom: 270px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.bg-black{
+    background-color: black;
+}
